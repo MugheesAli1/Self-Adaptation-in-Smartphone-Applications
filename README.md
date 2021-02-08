@@ -1,6 +1,6 @@
 Self-Adaptation in Smartphone Applications Research Article:
 
-Two files related to research atticle.Self-Adaptation in Smartphone Applications Research Article:
+Two files related to research atticle. Self-Adaptation in Smartphone Applications Research Article:
 
 Two files related to the research article named "Appendix A Table" and "SWOT Analysis Table".
 
