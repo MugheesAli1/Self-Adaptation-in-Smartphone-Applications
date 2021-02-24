@@ -1,7 +1,3 @@
 Self-Adaptation in Smartphone Applications Research Article:
 
-Two files related to the research article named "Appendix A Table" and "SWOT Analysis Table".
-
-1. "Appendix A Table" contains information related to selected studies.
-
-2. "SWOT Analysis Table" contains information to figuring out the Strenght, Weaknesses, Opportunities, and Threats related to selected studies.
+1. One file related to the research article named "Appendix A Table" which contains information related to all final selected studies.
